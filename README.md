@@ -6,4 +6,6 @@ El objetivo principal es representar el modelo dado de la mejor manera utilizand
 
 # Plantilla proyecto
 
-<img src="./Extra/template.png" alt="">
+
+
+<img src="./Extra/template.png" alt="margin:30% 30%">
