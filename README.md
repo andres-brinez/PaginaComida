@@ -8,4 +8,4 @@ El objetivo principal es representar el modelo dado de la mejor manera utilizand
 
 
 
-<img src="./Extra/template.png" alt="margin:30% 30%">
+<img src="./Extra/template.png" style="margin:30% 30%">
