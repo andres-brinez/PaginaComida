@@ -55,9 +55,9 @@ main{
 
 /* SERVICES */
 
-.services h2 {
-    font-size: 1.5rem;
-    font-weight: 300;
+h2 {
+    font-size: 1.8rem;
+    font-weight: 400;
     text-align: center;
     color: #062935;
     margin: 50px 0 ;
@@ -83,3 +83,23 @@ main{
     grid-row: 1/3;
 }
 
+
+/* MENU */
+
+.itemsMenu{
+    display: grid;
+    grid-template-columns: repeat(5, minMax(100px, 180px)/* para que no se vea tan grandre */);
+    grid-auto-rows:1fr ;
+    grid-gap: 20px;
+    margin: 20px 0;
+    justify-content: center;
+}
+.itemMenu{
+    background-color:#FDEEEB ;
+    border-top-left-radius: 20px;
+}
+.itemsMenu img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
