@@ -12,6 +12,6 @@ El objetivo principal es representar el modelo dado de la mejor manera utilizand
 
 <img src="./Extra/PlantillaGrilla.png" alt="">
 
-<hr>
+<br>
 
 <img src="./Extra/maquetacion.png" alt="">
