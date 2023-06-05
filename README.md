@@ -6,6 +6,12 @@ El objetivo principal es representar el modelo dado de la mejor manera utilizand
 
 # Plantilla proyecto
 
+<img src="./Extra/template.png" alt="">
 
+# Grillas
 
-<img src="./Extra/template.png" style="margin:30% 30%">
+<img src="./Extra/PlantillaGrilla.png" alt="">
+
+<hr>
+
+<img src="./Extra/maquetacion.png" alt="">
